@@ -1,0 +1,11 @@
+[package]
+name = "branch-bound"
+version = "0.1.0"
+edition = "2021"
+description = "Branch and bound framework with node selection, bounding, pruning, and integer programming"
+license = "MIT"
+repository = "https://github.com/SuperInstance/branch-bound"
+keywords = ["branch-and-bound", "optimization", "integer-programming", "algorithms"]
+categories = ["algorithms", "science"]
+
+[dependencies]
